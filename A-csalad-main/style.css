@@ -1,0 +1,37 @@
+h1,h2{
+    text-align: center;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+h1{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+h2{
+    margin-bottom: 20px;
+}
+.alma{
+    margin-left: 170px;
+}
+.ul1{
+    font-weight: bold;
+}
+nav{
+    background-color: yellow;
+}
+header{
+    height: 100px;
+    background-color: yellow;
+}
+footer{
+    height: 50px;
+    background-color: yellow;
+}
+p{
+    text-align: justify;
+}
+.alairas{
+    text-align: center;
+    padding-top: 10px;
+    font-weight: bold;
+}
